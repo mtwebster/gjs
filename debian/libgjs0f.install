@@ -1,0 +1,2 @@
+usr/lib/libgjs*.so.*
+usr/lib/gjs/girepository-1.0/*.typelib
